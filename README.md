@@ -1,6 +1,6 @@
 ### Assalamualikum 👋
 
-<h1 align="center">Hi 👋, I'm tamzid620</h1>
+<h1 align="center"> I'm Tamzid Ull Monir</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="Description of the image" width="400"  title="rege coding" class="image-class">
 
