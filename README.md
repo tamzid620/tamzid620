@@ -1,8 +1,8 @@
 ### Assalamualikum 👋
 
 <h1 align="center"> I'm Tamzid Ull Monir</h1>
-<h3 color="red" align="center">A passionate web developer from Bangladesh</h3>
-<img src="https://miro.medium.com/v2/resize:fit:640/1*A3_-0RRhNeputCxIijtJBg.gif" alt="Description of the image" width="500"  title="rege coding" class="image-class">
+<h3 align="center">A passionate web developer from Bangladesh</h3>
+<img align-"center" src="https://miro.medium.com/v2/resize:fit:640/1*A3_-0RRhNeputCxIijtJBg.gif" alt="Description of the image" width="500"  title="rege coding" class="image-class">
 
 
 
