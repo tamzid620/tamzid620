@@ -1,4 +1,4 @@
-### Assalamualikum 👋
+### Hi 👋
 
 <h1 align="center"> I'm Tamzid Ull Monir</h1>
 <h3 align="center">A Passionate Web Developer From Bangladesh</h3>
