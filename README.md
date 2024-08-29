@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 
-<p align="left"> <img width="120" height="60" src="https://komarev.com/ghpvc/?username=tamzid620&label=Profile%20views&color=0e75b6&style=flat" alt="tamzid620" /> </p>
+<p align="left"> <img width="200" height="40" src="https://komarev.com/ghpvc/?username=tamzid620&label=Profile%20views&color=0e75b6&style=flat" alt="tamzid620" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
