@@ -39,8 +39,6 @@
 <!-- chart js logo  -->
  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/> </a> 
 
-
-
 </p>
 
 <h3 align="left">Connect with me:</h3>
