@@ -15,7 +15,7 @@
 
 <!-- react js logo  -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" margin-right= "10" width="60" height="60"/> 
 </a> 
 
 <!-- redux logo  -->
