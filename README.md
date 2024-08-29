@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Tamzid Ull Monir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamzid620&label=Profile%20views&color=0e75b6&style=flat" alt="tamzid620" /> </p>
+<p align="left"> <img width="180" height="30" src="https://komarev.com/ghpvc/?username=tamzid620&label=Profile%20views&color=0e75b6&style=flat" alt="tamzid620" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamzid620" alt="tamzid620" /></a> </p>
 
