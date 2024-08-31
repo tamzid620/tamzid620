@@ -38,7 +38,7 @@
 
 - 🔭 I’m currently working on [tamzid620Portfolio](https://tamzid620-portfolio.vercel.app/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native & TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://tamzid-620-portfolio.netlify.app/](https://tamzid-620-portfolio.netlify.app/)
 
