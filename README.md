@@ -42,15 +42,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamzid620" alt="tamzid620" /></a> </p>
 
 
-- 🔭 I’m currently working on [tamzid620Portfolio](https://tamzid620-portfolio.vercel.app/)
+- 🔭 I’m currently working on USA Based Project
 
 - 🌱 I’m currently learning **MySql & React Native**
 
-- 👨‍💻 All of my projects are available at [https://tamzid-620-portfolio.netlify.app/](https://tamzid-620-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at **https://codetamzid.vercel.app/**
 
 - 📫 How to reach me **tamzid620@gmail.com**
 
-- ⚡ Fun fact **I can cook Code and Meals**
+- ⚡ Fun fact **I can Cook Code and Meals**
 
 
 
