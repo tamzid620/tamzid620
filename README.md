@@ -48,7 +48,7 @@
 
 - 👨‍💻 All of my projects are available at **https://codetamzid.vercel.app/**
 
-- 📫 How to reach me **tamzid620@gmail.com**
+- 📫 How to reach me **tamzid620@gmail.com , https://wa.me/+8801852951963**
 
 - ⚡ Fun fact **I can Cook Code and Meals**
 
