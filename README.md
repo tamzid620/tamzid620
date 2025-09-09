@@ -25,7 +25,7 @@
 <!-- firebase logo  -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a>    <!-- git logo  --><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>   <!-- chart js logo  --><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/> </a> 
 
- <!-- Stripe logo  --><a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/kftzwdyauwt9/6c20363e-30c0-486d-2e9bfa611583/b15f2e43a5a525763c966ab4562a31b2/stripe.jpg?w=1920&q=90&fm=webp" alt="stripe" width="60" height="60"/> </a> 
+ <!-- Stripe logo  --><a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-hbbah.nitrocdn.com/qQdEbzQSstUkQriMRCXjiMjtsgTdAbTy/assets/images/optimized/rev-951edd1/www.ebs.ae/wp-content/uploads/2021/11/Stripe-Logo.png" alt="stripe" width="60" height="60"/> </a> 
 
 </p>
 <!-- ------------------------------------------------------------------------------------------------ -->
