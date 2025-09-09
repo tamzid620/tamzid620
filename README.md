@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I’m Tamzid Ull Monir</h1>
-<h3 align="center">• A passionate Frontend & Software Developer from Bangladesh •</h3>
+<h3 align="center">• Passionate Frontend & Software Developer | Based in Bangladesh •</h3>
 
 <p align="left"> <img width="180" height="30" src="https://komarev.com/ghpvc/?username=tamzid620&label=Profile%20views&color=0e75b6&style=flat" alt="tamzid620" /> </p>
 
