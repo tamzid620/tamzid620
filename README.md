@@ -33,13 +33,6 @@
  <!-- Stripe logo  --><a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-hbbah.nitrocdn.com/qQdEbzQSstUkQriMRCXjiMjtsgTdAbTy/assets/images/optimized/rev-951edd1/www.ebs.ae/wp-content/uploads/2021/11/Stripe-Logo.png" alt="stripe" width="60" height="60"/> </a> 
 
 </p>
-<!-- ------------------------------------------------------------------------------------------------ -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tamzid-ull-monir-96b163260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamzid-ull-monir-96b163260/" height="60" width="60" /></a>
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamzid620" alt="tamzid620" /></a> </p>
 
 
 - 🔭 I’m currently working on USA Based Project
@@ -51,6 +44,16 @@
 - 📫 How to reach me **tamzid620@gmail.com , https://wa.me/+8801852951963**
 
 - ⚡ Fun fact **I can Cook Code and Meals**
+
+
+<!-- ------------------------------------------------------------------------------------------------ -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/tamzid-ull-monir-96b163260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamzid-ull-monir-96b163260/" height="60" width="60" /></a>
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamzid620" alt="tamzid620" /></a> </p>
+
 
 
 
