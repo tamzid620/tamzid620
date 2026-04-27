@@ -7,29 +7,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <!-- ------------------------------------------------------------------------------------------------ -->
 <p align="left"> 
- <!-- ----------------------------------------start-------------------------------------------------------- -->
 
-<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
-
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.hacksoft.io/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F98835%2F1684410508-image-7.png&w=384&q=75" alt="nextjs" width="60" height="60"/> 
-  </a> 
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
-  </a>    
-
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="electron" width="60" height="60"/> 
-  </a>    
-
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> 
-  </a>
-
-</div>
-
-<!-- ---------------------------------------------end--------------------------------------------------- -->
+<!-- nextjs logo -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.hacksoft.io/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F98835%2F1684410508-image-7.png&w=384&q=75" alt="nextjs" width="60" height="60"/> </a> <!-- react js logo  --><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>   <!-- electron.js logo  --><a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="electron" width="60" height="60"/> </a>    <!-- redux logo  --><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a>
 
  <!-- javascript logo -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a><!-- TypeScript logo --><a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.typescriptlang.org/)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="60" height="60"/> </a><!-- html logo  -->
